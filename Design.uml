@@ -1,0 +1,31 @@
+Fazer Design
+
+  Antes do desenho de um cenário, tenque usar casos de uso ou uml em JAVA, o programa sempre começa com a tela. A palavra Design, não é desenho! É projeto!
+Diagrama de classe em java, tem a mesma tela de caracter em "C#". Um grande exemplo, é a planta de uma casa, tenque ter arquiteto, garagem, fachadada e isso
+tudo se resume a um "projeto".
+
+Diagrama de classes
+  
+   Onde vou por o projeto? O modelo, languageBR, SQl, Java, varios tipos de planta.
+   
+                          
+                                          
+                                                               Tecnicas para Modelagem:
+                                      ________                  ___________                      
+                                     |        |                 |break 001 |
+                                     |        |                 |          |
+                                     __________                 ____________
+                                     
+                                     
+                                     __________                 ____________
+                                     |         |                |for case   |
+                                     |         |                |           |
+                                     __________                 _____________
+                                     
+                                     umonte de diagramas para substituir a arquiterura.
+                                     UML: LINGUAGEM DE MODELAGEM UNIFICADA
+                                     
+                                     Design Desenvolve SOftware Design 
+             Em 1996, unificaram padrão BD, tabele, 13diagramas.
+             
+             
