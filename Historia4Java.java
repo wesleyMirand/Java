@@ -1,4 +1,4 @@
-                                         JAVA
+                                        /* JAVA
                                          
  Após escolherem o nome "Java", o projeto "WebRunner" também seria nomeado e passaria a se chamar "HotJava". Que se tornou a cara dos primeiros navegadores,
 levando a interatividade do projeto "linguagem Java", ao antigo "Oak" para "Web". Até quem devida a fama de "Java do Futuro", a empresa "NetScape" de, 
@@ -15,4 +15,4 @@ famosas por software livres.
  exemplos:
  
  SISTEMA BANCARIOS DO COMPUTADOR: acessar o HomeBanking, cartões de credito e banco que tem smart Chip lido por interface em java. Java está no celular
-sistemas androide, softwares, c, blue-ray (CD DVD), TvDigital, Relogio, ReceitaFederal  .
+sistemas androide, softwares, c, blue-ray (CD DVD), TvDigital, Relogio, ReceitaFederal  . */
