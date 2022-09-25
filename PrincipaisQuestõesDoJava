@@ -1,0 +1,30 @@
+1) O que é Java? Qual a sua origem?
+R: A pós o surgimento do "Pascal" e "C", foi lançado um projeto "WEBRUNNER", que deu origem ao "Java" famosa linguagem do futuro.Foi em 1995, que surgiu tudo com a empresa "Sun Microsystems".
+
+2) O que é Bytecode?
+R: Bytecode é o codigo fonte, que gera um codigo binário que a maquina entende, que depende do software "Maquina Virtual Java & JVM", que ao
+pegar o "bytecode" envia pro "JVM" e cria um codigo pro computador entender(compilar) e ser executavel.
+exemplo
+Código _> Banco:Javac _> Bytecode:compilador na maquina _> JVM _> COmputador
+
+3) Qual a diferença entre compilação e interpretação?
+R: A compilação lé o código, faz todas análises sintáticas presentes e processos para poder gerar um arquivo-objeto executável.
+
+4) Qual a diferença entre Java e C#?
+R: A linguagem "C" é procedimental e tem peculiaridade especifica, compiladores para diversas plataformas. Java é uma linguagem orientada
+a objetos, principal função é usar dados.
+
+5) O que é máquina virtual do JAVA? Como funciona?
+R:  Existem "JVMs" para todos servidores e são maquinas virtual. O programador não precisa mexer nelas, pois ja são preparadas para executar qualquer código.
+ Funcionam em qualquer servidores, enviar pro compilador em qualquer plataforma e gerar o byte code. o byte code gerado pelo computador pode ser compilador
+ em qualquer maquina com jvm (relogios, computadores, eletrodomestico , celular).
+
+6) O que é .net Framework? Como funciona?
+R: O .NET Framework de execução runtime que gerencia os aplicativos destinados ao .NET .
+
+7) O que são funções?
+R: São métodos, execução ou procedimentos que ajudam no design do sistema e com a reutilização de software.
+
+8) Qual a diferença entre Java e C++?
+R: C++  é uma linguagem de programação procedural e orientada a objetos e não tem suporte embutido para threads porque depende de bibliotecas terceiros. Já o "Java" é apenas uma linguagem de programação orientada a objetos que usa classe de
+sistema para entrada.
