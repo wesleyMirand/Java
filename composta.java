@@ -1,8 +1,8 @@
-
+import java.util.Scanner;
 public class composta {
 
 	public static void main(String[] args) {
-		Scanner Sc= new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 		int Hora;
 		
 		         System.out.println("Quantas Horas");
