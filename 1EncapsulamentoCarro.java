@@ -7,6 +7,7 @@ public class carro {
 	private double consumoCombustivel;
 
     public String getMarca(){
+	    
          return this.marca;
     }	
 
